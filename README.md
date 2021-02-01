@@ -50,7 +50,7 @@
 
 * **Paxos Made Moderately Complex** [[PDF](https://dl.acm.org/doi/10.1145/2673577)] 
 
-* **Paxos Made Live** [[PDF](An Engineering Perspective)] 
+* **Paxos Made Live An Engineering Perspective** [[PDF](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)] 
 
 * **Exploiting Commutativity For Practical Fast Replication** [[PDF](https://www.usenix.org/system/files/nsdi19-park.pdf)] 
 
