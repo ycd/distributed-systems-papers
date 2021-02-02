@@ -12,6 +12,8 @@
 
 * **The Google File System** (2003) _Sanjay Ghemawat, Howard Gobioff, Shun-Tak Leung_ [[PDF](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)]
 
+* **Amazon Web Services: Millions of Tiny Databases** (2020) _Marc Brooker, Tao Chen, and Fan Ping_ [[PDF](https://www.usenix.org/system/files/nsdi20-paper-brooker.pdf)]
+
 * **Tiered Replication: A Cost-effective Alternative to Full Cluster Geo-replication** (2015) _Asaf Cidon, Stanford University; Robert Escriva, Cornell University; Sachin Katti and Mendel Rosenblum, Stanford University; Emin Gün Sirer, Cornell University_ [[PDF](https://www.usenix.org/system/files/conference/atc15/atc15-paper-cidon.pdf)] 
 
 * **Scalable State-Machine Replication** (2014) _Carlos Eduardo Bezerra, Fernando Pedone, Robbert van Renesse†_ [[PDF](https://www.inf.usi.ch/faculty/pedone/Paper/2014/2014DSNa.pdf)] 
