@@ -4,6 +4,8 @@
 
 * **Bipartisan Paxos: A Family of Fast, Leaderless, Modular State Machine Replication Protocols** (2020) _Michael Whittaker, Neil Giridharan, Adriana Szekeres, Joseph M. Hellerstein, Ion Stoica_ [[PDF](https://mwhittaker.github.io/publications/bipartisan_paxos.pdf)] 
 
+* **In Search of an Understandable Consensus Algorithm** (2014) _Diego Ongaro and John Ousterhout_ [[PDF](https://raft.github.io/raft.pdf)]
+
 * **exTreme Modelling in Practice** (2020), _A. Jesse Jiryu Davis, Max Hirschhorn, Judah Schvimer_ [[PDF](https://arxiv.org/pdf/2006.00915.pdf)] 
 
 * **Starling: A Scalable Query Engine on Cloud Function Services** (2019) _Matthew Perron, Raul Castro Fernandez, David DeWitt, Samuel Madden_ [[PDF](https://arxiv.org/pdf/1911.11727.pdf)] 
