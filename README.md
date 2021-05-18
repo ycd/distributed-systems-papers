@@ -129,3 +129,6 @@
 * **Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases** (2014) _Sandeep Kulkarni, Murat Demirbas, Deepak Madeppa, Bharadwaj Avva, and Marcelo Leone_ [[PDF](https://cse.buffalo.edu/tech-reports/2014-04.pdf)] 
 
 * **TaxDC: A Taxonomy of nondeterministic concurrency bugs in datacenter distributed systems** (2016) _Tanakorn  Leesatapornwongsa, Jeffrey F Lukman,Shan Lu, Haryadi S Gunawi p_ [[PDF](https://ucare.cs.uchicago.edu/pdf/asplos16-TaxDC.pdf)]
+
+* **Spark: Cluster Computing with Working Sets** (2016) _Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, Ion Stoica_ [[PDF](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)]
+
