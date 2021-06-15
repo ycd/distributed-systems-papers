@@ -132,3 +132,6 @@
 
 * **Spark: Cluster Computing with Working Sets** (2016) _Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, Ion Stoica_ [[PDF](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)]
 
+
+* **Silent Data Corruptions at Scale** (2021) _Harish Dattatraya Dixit, Sneha Pendharkar, Matt Beadon, Chris Mason, Tejasvi Chakravarthy, Bharath Muthiah, Sriram Sankar_ [[PDF](https://arxiv.org/pdf/2102.11245.pdf)]
+
