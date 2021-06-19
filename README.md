@@ -135,3 +135,5 @@
 
 * **Silent Data Corruptions at Scale** (2021) _Harish Dattatraya Dixit, Sneha Pendharkar, Matt Beadon, Chris Mason, Tejasvi Chakravarthy, Bharath Muthiah, Sriram Sankar_ [[PDF](https://arxiv.org/pdf/2102.11245.pdf)]
 
+* **FoundationDB: A Distributed Unbundled Transactional Key Value Store** (2021) _Jingyu Zhou, Meng Xu, Alexander Shraer, Bala Namasivayam, Alex Miller, Evan Tschannen, Steve Atherton, Andrew J. Beamon, Rusty Sears John Leach,  Dave Rosenthal, Xin Dong,  Will Wilson, Ben Collins, David Scherer, Alec Grieser, Young Liu, Alvin Moore, Bhaskar Muppana, Xiaoge Su, Vishesh Yadav_ [[PDF](https://www.foundationdb.org/files/fdb-paper.pdf)]
+
