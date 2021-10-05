@@ -139,5 +139,5 @@
 
 * **Sundial: Fault-tolerant Clock Synchronization for Datacenters** (2021) _Juliang Li, Gautam Kumar, Hema Hariharan, Hassan Wassel, Peter Hochschild, and Dave Platt, Simon Sabato, Minlan Yu, Nandita Dukkipati, Prashant Chandra, Amin Vahdat_ [[PDF](https://www.usenix.org/system/files/osdi20-li_yuliang.pdf)]
 
-* **Running BGP in Data Centers at Scale** (2021) _Anubhavnidhi Abhashkumar , Kausik Subramanian , Alexey Andreyev⇧, Hyojeong Kim⇧,
-Nanda Kishore Salem⇧, Jingyi Yang⇧, Petr Lapukhov⇧, Aditya Akella, Hongyi Zeng⇧_ [[PDF](https://research.fb.com/wp-content/uploads/2021/03/Running-BGP-in-Data-Centers-at-Scale_final.pdf)]
+* **Running BGP in Data Centers at Scale** (2021) _Anubhavnidhi Abhashkumar, Kausik Subramanian, Alexey Andreyev, Hyojeong Kim,
+Nanda Kishore Salem, Jingyi Yang, Petr Lapukhov, Aditya Akella, Hongyi Zeng_ [[PDF](https://research.fb.com/wp-content/uploads/2021/03/Running-BGP-in-Data-Centers-at-Scale_final.pdf)]
