@@ -141,3 +141,9 @@
 
 * **Running BGP in Data Centers at Scale** (2021) _Anubhavnidhi Abhashkumar, Kausik Subramanian, Alexey Andreyev, Hyojeong Kim,
 Nanda Kishore Salem, Jingyi Yang, Petr Lapukhov, Aditya Akella, Hongyi Zeng_ [[PDF](https://research.fb.com/wp-content/uploads/2021/03/Running-BGP-in-Data-Centers-at-Scale_final.pdf)]
+
+* **Amazon Redshift Re-invented** (2022) _Nikos Armenatzoglou, Sanuj Basu, Naga Bhanoori, Mengchu Cai, Naresh Chainani, Kiran Chinta
+Venkatraman Govindaraju, Todd J. Green, Monish Gupta, Sebastian Hillig, Eric Hotinger
+Yan Leshinksy, Jintian Liang, Michael McCreedy, Fabian Nagel, Ippokratis Pandis, Panos Parchas
+Rahul Pathak, Orestis Polychroniou, Foyzur Rahman, Gaurav Saxena, Gokul Soundararajan
+Sriram Subramanian, Doug Terry_ [[PDF](https://assets.amazon.science/4b/37/223ac61e450898244a31bed53734/amazon-redshift-re-invented.pdf)]
